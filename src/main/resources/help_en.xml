@@ -5,7 +5,7 @@
 <!-- Key "GENERAL" is listed first, for obvious reasons. All remaining keys follow, listed in alphabetical order. -->
 	<entry key="GENERAL">**GENERAL HELP INFORMATION**
 
-Greetings! I am the GameResourceBot.
+Greetings! I am GameResourceBot, or GRB for short.
 
 I can understand only one command at a time.
 Commands are NOT case-sensitive, unless otherwise noted.
@@ -212,8 +212,10 @@ For more information, please contact your guild's GameResourceBot administrator.
 **See also:**
 + `%1$s help userConfig`
 + `%1$s help screenshot`</entry>
-	<entry key="CREDITS">This bot was created by BlackCraze, with help from Dangercrow and firewaran.
-Greek translations by ThatGreekGuy.
+	<entry key="CREDITS">This bot was developed by BlackCraze, with help from Dangercrow and firewaran.
+German translations by firewaran.
+Spanish translations by Grimpow.
+French translations by DarkPlagueis42.
 Portuguese translations by Benur21.
 Documentation assistance by PellaAndroid.
 i18n coordination by PellaAndroid.
