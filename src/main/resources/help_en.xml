@@ -149,6 +149,11 @@ Clear all of the entire guild's inventory items updated before [XX] hours ago.
 + `%1$s help update`</entry>
 	<entry key="COMMANDS">**Available Commands**
 
+```diff
++ help
++ help [command]
++ help screenshot
+- Please note that "$1$s screenshot" is NOT A COMMAND.```
 ```fix
 config
 userConfig```
