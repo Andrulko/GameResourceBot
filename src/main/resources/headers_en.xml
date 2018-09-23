@@ -2,8 +2,7 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <!-- @formatter:off -->
 <properties>
-<!-- The first five keys are abbreviations for measurements of time, listed in decreasing order of length. -->
-<!-- All other keys follow, listed in alphabetical order. -->
+<!-- The first five keys are abbreviations for measurements of time, listed in decreasing order of length. All other keys follow, listed in alphabetical order. -->
 	<entry key="WEEKS">w</entry>
 	<entry key="DAYS">d</entry>
 	<entry key="HOURS">h</entry>
