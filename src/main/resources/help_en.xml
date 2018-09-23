@@ -22,7 +22,7 @@ To let me update your inventory, you may:
 + use commands. For details, type:
 ```%1$s help update```
 
-OPTIONAL: Send commands and/or screenshots via DM: __Use my @mention ID.__
+OPTIONAL: Send commands and/or screenshots via Direct Message (DM): __Use my @mention ID.__
 
 OPTIONAL: When sending commands via DM, you may omit the `%1$s` prefix.
 
@@ -308,7 +308,7 @@ To update your inventory using screenshots:
 
 5) Save all screenshots as PNG files. (Hint: That probably happens automatically.) If you do not know the file type of your screenshots, then upload them, anyway. If they're not PNG files, I will tell you.
 
-6) In your Discord app, go to the #%2$s channel (or DM) and upload the images.
+6) In your Discord app, go to the #%2$s channel (or Direct Message) and upload the images.
 
 **==========**
 
