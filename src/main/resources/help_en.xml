@@ -2,6 +2,7 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <!-- @formatter:off -->
 <properties>
+<!-- Key "GENERAL" is listed first, for obvious reasons. All remaining keys follow, listed in alphabetical order. -->
 	<entry key="GENERAL">**GENERAL HELP INFORMATION**
 
 Greetings! I am the GameResourceBot.
@@ -11,6 +12,7 @@ Commands are NOT case-sensitive, unless otherwise noted.
 DO NOT send one message with multiple commands on separate lines.
 DO send one message with one command, then another message, and so on.
 DO read the help for the command you want to use. Sometimes, I can do multiple tasks within one command.
+DO use the #%2$s channel to communicate with me. It's the only channel where I have access.
 
 **==========**
 
@@ -38,7 +40,6 @@ For help with specific commands, type:
 ```%1$s help [command]```
 For a list of available commands, type:
 ```%1$s help commands```</entry>
-	<!-- Key "GENERAL" is listed first, for obvious reasons. All remaining keys are listed in alphabetical order. -->
 	<entry key="CHECK">**Check**
 
 The *primary* purpose of the `check` command is to verify that I read your screenshots correctly.
@@ -300,7 +301,7 @@ To update your inventory using screenshots:
 
 5) Save all screenshots as PNG files. (Hint: That probably happens automatically.) If you do not know the file type of your screenshots, then upload them, anyway. If they're not PNG files, I will tell you.
 
-6) In your Discord app, go to my channel (or DM) and upload the images.
+6) In your Discord app, go to the #%2$s channel (or DM) and upload the images.
 
 **==========**
 

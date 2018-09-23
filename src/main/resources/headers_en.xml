@@ -2,13 +2,13 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <!-- @formatter:off -->
 <properties>
-<!-- The first keys listed are abbreviations for measurements of time, listed in decreasing order of length. -->
+<!-- The first five keys are abbreviations for measurements of time, listed in decreasing order of length. -->
+<!-- All other keys follow, listed in alphabetical order. -->
 	<entry key="WEEKS">w</entry>
 	<entry key="DAYS">d</entry>
 	<entry key="HOURS">h</entry>
 	<entry key="MINUTES">m</entry>
 	<entry key="SECONDS">s</entry>
-	<!-- All other keys appear below, in alphabetical order. -->
 	<entry key="ACTION">Action</entry>
 	<!-- Concerning both "DEVICE" and "LANGUAGE": Since `bot userconfig set` needs the English words to work
 	correctly, the non-English `headers` files show the English word followed by the non-English word in
