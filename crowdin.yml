@@ -1,9 +1,4 @@
 preserve_hierarchy: true
-"export_languages": [                                   
-    "ru", 
-    "uk", 
-    "ja"
-  ]
 files:
   - source: /src/main/resources/*.properties
     translation: >-
